@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main()
 {
-  // Commentaire pour ajouter une ligne
-  printf("second");
+  printf("Modification du hello world");
   return 0;
 }
